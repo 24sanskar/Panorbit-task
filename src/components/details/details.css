@@ -1,0 +1,131 @@
+.details-page {
+  display: grid;
+  grid-template-columns: 1fr 4.5fr;
+  padding: 30px;
+}
+/* SIDE BAR */
+.side-bar {
+  height: 100%;
+  background: rgb(61, 87, 200);
+  background: linear-gradient(
+    131deg,
+    rgba(61, 87, 200, 1) 33%,
+    rgba(112, 44, 200, 1) 100%
+  );
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #a4a6e4;
+  font-size: 1.3rem;
+}
+
+.side-bar-option {
+  width: 75%;
+}
+
+.profile-op:hover {
+  color: #ffffff;
+  font-size: 1.5rem;
+}
+
+.side-bar-hr {
+  color: #a4a6e4;
+  opacity: 0.5;
+}
+
+/* Main Page */
+.main {
+  height: 100%;
+  padding: 0 30px;
+}
+
+.profile-img {
+  height: 30px;
+  width: 30px;
+  border-radius: 50%;
+  /* background-image: url("image/images (2).jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.profile {
+  display: grid;
+  grid-template-columns: 5fr 1fr;
+}
+
+.profile-name-sec {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 20px;
+}
+.profile-name {
+  padding: 10px;
+}
+.profile-content {
+  padding-top: 50px;
+}
+
+/* profile info */
+.pro-info {
+  border-right: 0.5px solid rgb(162, 191, 191);
+  padding-right: 30px;
+}
+.profile-content {
+  display: grid;
+  grid-template-columns: 1fr 4.5fr;
+}
+.pro-img {
+  height: 150px;
+  width: 150px;
+  border-radius: 50%;
+  background-color: green;
+  margin: 0 auto;
+}
+.pro-heading {
+  text-align: center;
+}
+pre {
+  font-size: 18px;
+}
+.pro-company {
+  text-align: center;
+}
+.spa {
+  color: grey;
+}
+.pro-hr {
+  width: 80%;
+}
+.pro-img {
+  /* background-image: url("image/images (2).jpg"); */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* pro-address */
+.pro-address {
+  padding-left: 50px;
+}
+.maps {
+  height: 300px;
+  width: 500px;
+  border-radius: 20px;
+}
+
+/* chats */
+.chats {
+  height: 40px;
+  width: 250px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px 10px 0 0;
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+}
+.chats-para {
+  padding: 10px 0 0 15px;
+}
