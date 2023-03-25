@@ -1,6 +1,6 @@
 #Project overview
 
-![Screenshot](screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_03_50 PM.png)
+![Screenshot (235)]([https://user-images.githubusercontent.com/104199818/211187665-600caa57-687d-4cd8-b94a-9ecd753cfd80.png](https://github.com/24sanskar/Panorbit-task/blob/main/screenshot/Panorbit%20Assignment%20-%20Google%20Chrome%203_25_2023%203_03_50%20PM.png))
 
 ![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_02 PM.png)
 
