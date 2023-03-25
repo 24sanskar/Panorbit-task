@@ -14,7 +14,7 @@
 
 ![7](https://user-images.githubusercontent.com/105884159/227710354-3495f1df-3ee3-403a-8eba-fc42f4aafbcc.png)
 
-# Dependency used
+# Dependencies used
 
 1. react-router-dom
 2. axios
