@@ -14,6 +14,9 @@
 
 ![7](https://user-images.githubusercontent.com/105884159/227710354-3495f1df-3ee3-403a-8eba-fc42f4aafbcc.png)
 
+# hosted link
+https://panorbit24.netlify.app/
+
 # Dependencies used
 
 1. react-router-dom
