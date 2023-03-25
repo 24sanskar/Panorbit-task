@@ -1,4 +1,4 @@
-#Project overview
+# Project overview
 
 ![1](https://user-images.githubusercontent.com/105884159/227710283-56777046-5935-4212-8add-d725856bdc82.png)
 
@@ -14,7 +14,11 @@
 
 ![7](https://user-images.githubusercontent.com/105884159/227710354-3495f1df-3ee3-403a-8eba-fc42f4aafbcc.png)
 
+# Dependency used
 
+1. react-router-dom
+2. axios
+3. react-icons
 
 # Getting Started with Create React App
 
