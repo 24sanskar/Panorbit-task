@@ -2,17 +2,18 @@
 
 ![1](https://user-images.githubusercontent.com/105884159/227710283-56777046-5935-4212-8add-d725856bdc82.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_02 PM.png)
+![2](https://user-images.githubusercontent.com/105884159/227710358-ad6f0cf8-24cc-458a-910b-1ee1635d54d2.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_07 PM.png)
+![3](https://user-images.githubusercontent.com/105884159/227710361-8e6d50e1-bdb6-4010-9aa8-ceda8e60fa9a.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_13 PM.png)
+![4](https://user-images.githubusercontent.com/105884159/227710341-e40191f0-2d6a-4245-b2f8-5f8fbff287bb.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_19 PM.png)
+![5](https://user-images.githubusercontent.com/105884159/227710349-457e4219-7a83-41e8-b4ab-6fb58f75289e.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_26 PM.png)
+![6](https://user-images.githubusercontent.com/105884159/227710351-236d8db4-e281-4a4b-bd93-b2f8aab681c8.png)
 
-![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_04_37 PM.png)
+![7](https://user-images.githubusercontent.com/105884159/227710354-3495f1df-3ee3-403a-8eba-fc42f4aafbcc.png)
+
 
 
 # Getting Started with Create React App
