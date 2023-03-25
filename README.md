@@ -1,4 +1,4 @@
-#Screeshot
+#Project overview
 
 ![Screenshot](./screenshot/Panorbit Assignment - Google Chrome 3_25_2023 3_03_50 PM.png)
 
